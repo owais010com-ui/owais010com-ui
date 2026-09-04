@@ -7,6 +7,7 @@ I'm a Full-Stack Web Developer specializing in building responsive, high-perform
 - 🔭 Currently working on full-stack web applications using the MERN stack
 - 🌱 Also exploring Next.js and PostgreSQL
 - 💬 Ask me about React, Node.js, Express, or MongoDB
+- 📫 Reach me at: **owais010.com@gmail.com**
 - 💼 Available for freelance projects
 
 ---
