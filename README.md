@@ -24,7 +24,7 @@ I'm a Full-Stack Web Developer specializing in building responsive, high-perform
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-
+![Owais's GitHub stats](https://github-readme-stats.vercel.app/api?username=owais010com-ui&show_icons=true&theme=radical&hide_border=true&count_private=true)
 ---
 
 ### 🌐 Find Me
