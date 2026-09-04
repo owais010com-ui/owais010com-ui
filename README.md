@@ -27,7 +27,7 @@ I'm a Full-Stack Web Developer specializing in building responsive, high-perform
 
 ### 📊 GitHub Stats
 
-![Owais's GitHub stats](https://github-readme-stats.vercel.app/api?username=owais010com-ui&show_icons=true&theme=radical)
+![Owais's GitHub stats](https://github-readme-stats.vercel.app/api?username=owais010com-ui&show_icons=true&theme=radical&hide_border=true)
 
 ---
 
